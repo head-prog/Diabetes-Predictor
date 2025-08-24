@@ -550,7 +550,7 @@ except Exception as e:
 # ---------------------------
 # Enhanced Main Interface
 # ---------------------------
-st.title("🩺 Ultra-Enhanced Diabetes Risk Prediction")
+st.title("🩺 Diabetes Risk Prediction")
 st.markdown("*Advanced ML targeting 90-95% accuracy with medical domain knowledge*")
 
 # Enhanced metrics display
